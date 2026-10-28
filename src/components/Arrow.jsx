@@ -1,0 +1,1 @@
+export default function Arrow(){return <svg className="arrow-icon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" strokeWidth="1.4" aria-hidden="true"><path d="M5 19L19 5M5 5H19V19"/></svg>}

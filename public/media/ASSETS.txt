@@ -1,0 +1,11 @@
+Put the supplied surgeon image and video in this folder:
+
+surgeon.jpg              (surgeon.png, surgeon.jpeg, or surgeon.webp also work)
+Untitled design.mp4      (awakening.mp4 also works)
+
+The app detects these files automatically. Keep the filename capitalization shown.
+No changes to src/story/media.js are needed unless you have set custom paths there.
+If an older browser-local upload takes priority, open Scene Media and clear local selections.
+The video sent in chat exceeded the execution workspace's 32 MiB transfer limit.
+The original video must be copied into Codespaces directly; it is not in this update.
+The inline surgeon photo also must be copied into Codespaces directly.
